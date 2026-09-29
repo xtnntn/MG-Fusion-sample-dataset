@@ -1,0 +1,14 @@
+﻿dataset,label,class_name_zh,class_name_en
+TeaPest-4,0,茶小绿叶蝉,Tea green leafhopper damage
+TeaPest-4,1,茶炭疽,Tea anthracnose
+TeaPest-4,2,热害,Heat stress
+TeaPest-4,3,角胸叶甲,Leaf beetle damage
+MDCLD,0,南方锈病,Southern rust
+MDCLD,1,圆斑病,Eyespot
+MDCLD,2,大斑病,Northern leaf blight
+MDCLD,3,小斑病,Southern leaf blight
+MDCLD,4,弯孢霉叶斑病,Curvularia leaf spot
+MDCLD,5,普通锈病,Common rust
+MDCLD,6,灰斑病,Gray leaf spot
+MDCLD,7,矮花叶病,Maize dwarf mosaic disease
+MDCLD,8,褐斑病,Brown spot
