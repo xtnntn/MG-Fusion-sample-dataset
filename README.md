@@ -1,6 +1,6 @@
 # MG-Fusion Sample Dataset
 
-This release candidate contains a **small illustrative subset**, not the full
+This repository contains a **small illustrative subset**, not the full
 training or evaluation corpora used in the MG-Fusion paper.
 
 ## Contents
@@ -61,7 +61,7 @@ of Corn Leaf Diseases based on Manual Annotation and Contrast Generation
 Model." *Journal of Agricultural Big Data*, 7(3):371-378, 2025.
 https://doi.org/10.19788/j.issn.2096-6369.100060
 
-## Before publishing
+## Licensing
 
 Read `LICENSES.md` before reuse. Project-owned TeaPest-4 images, diagnostic
 text, and metadata are released under CC BY-NC 4.0. Upstream MDCLD images
